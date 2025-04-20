@@ -1,0 +1,1 @@
+/home/fineman/git/meine_repos/github/learning_rust_with_rustbook/hello_world/target/debug/learning_rust_with_rustbook: /home/fineman/git/meine_repos/github/learning_rust_with_rustbook/hello_world/src/main.rs
